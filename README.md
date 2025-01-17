@@ -6,3 +6,4 @@ uart장치를 활용해서 zybo z7-7020 board와 컴퓨터간의 비동기식 ua
 
 code part --> uart_tx.v
 tb part  --> tb_uart_tx.v
+장치설정파일 --> zybo.xdc
